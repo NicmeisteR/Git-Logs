@@ -1,0 +1,4 @@
+data/logs.json
+logs/*.txt
+logs/*.csv
+node_modules
